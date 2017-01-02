@@ -17,6 +17,7 @@ codigoriginal is a startup of software development in Medellín, Colombia. We ha
 
 ### Work History
 * Recursos Inteligentes S.A.S
+* Wareside S.A.S 
 * Indesap S.A.S 
 
 ### Social Media
